@@ -17,6 +17,7 @@ dependencies = [
 name = "app"
 version = "0.1.0"
 description = "Add your description here"
+authors = ["pradeep <pradeepchaurasiya00789@gmail.com>"]
 
 [tool.poetry.dependencies]
 docx = "^0.2.4"
